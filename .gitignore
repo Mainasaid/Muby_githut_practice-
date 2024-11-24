@@ -1,0 +1,3 @@
+Employee Salaries
+#ignore all .txt files
+*.txt
